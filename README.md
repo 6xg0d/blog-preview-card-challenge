@@ -13,7 +13,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -29,10 +28,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL]: (https://your-solution-url.com)
+- [Live Site]: (https://6xg0d.github.io/blog-preview-card-challenge/)
 
 ## My process
+The HTML coding was pretty easy, but still i took my time to think about how it'd be better to structure the content and being as semantic as possible. This challenge gave a few problems, specially with the margins and spaces. And even when the space between the footer and the paragraph description isn't the same, i'm still happy with this result. 
 
 ### Built with
 
@@ -42,18 +42,11 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+With this project i was able to practice a little bit more of flexbox, and explore a little bit more about Figma and how to use it.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I want to work more with Figma, improve my CSS skills and be able to positionate elements exactly where i want. Planning to add even more interactivity in the future to this card preview!
 
 ## Author
 - Frontend Mentor - [@6xg0d](https://www.frontendmentor.io/profile/6xg0d)
-
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
