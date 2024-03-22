@@ -38,6 +38,7 @@ body {
 .card-header img {
   width: 336px;
   height: 200px;
+  border-radius: 10px;
 }
 
 .card-text-body {
