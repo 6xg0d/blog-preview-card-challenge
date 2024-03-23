@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL] (https://www.frontendmentor.io/solutions/blog-preview-card-challenge-solution-a-ZYPZEVCJ)
-- [Live Site] (https://6xg0d.github.io/blog-preview-card-challenge/)
+- [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-challenge-solution-a-ZYPZEVCJ)
+- [Live Site](https://6xg0d.github.io/blog-preview-card-challenge/)
 
 ## My process
 The HTML coding was pretty easy, but still i took my time to think about how it'd be better to structure the content and being as semantic as possible. This challenge gave a few problems, specially with the margins and spaces. And even when the space between the footer and the paragraph description isn't the same, i'm still happy with this result. 
