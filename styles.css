@@ -2,7 +2,6 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: Figtree, sans-serif;
 }
 
 body {
@@ -10,42 +9,31 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
+  font-family: Figtree, sans-serif;
 }
 
 .blog-card {
-  display: flex;
-  flex-direction: column;
-  row-gap: 24px;
   width: 384px;
   height: 522px;
+  padding: 24px;
   border-radius: 20px;
-  background-color: hsl(0, 0%, 100%);
   border: 1px solid hsl(0, 0%, 7%);
-  box-shadow: 10px 10px 0 0 hsl(0, 0%, 7%);
-}
-
-.card-containers {
-  width: 336px;
-  margin-left: 24px;
-  margin-right: 24px;
-}
-
-.card-header {
-  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 25px;
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 8px 8px 0 0 hsl(0, 0%, 7%);
 }
 
 .card-header img {
-  width: 336px;
-  height: 200px;
+  display: block;
+  width: 100%;
+  height: auto;
   border-radius: 10px;
 }
 
-.card-text-body {
-  margin-bottom: 20px;
-}
-
-.card-text-body .card-label {
+.card-body .card-label {
   display: inline-block;
   margin-bottom: 12px;
   padding: 4px 12px;
@@ -56,25 +44,25 @@ body {
   
 }
 
-.card-text-body .card-date {
+.card-body .card-date {
   font-size: 14px;
   margin-bottom: 12px;
   font-weight: 500;
 }
 
-.card-text-body h1{
+.card-body h1{
   font-weight: 800;
   margin-bottom: 12px;
   font-size: 24px;
-
 }
 
-.card-text-body h1:hover {
-  color: hsl(47, 88%, 63%);;
+.card-body h1:hover {
+  color: hsl(47, 88%, 63%);
   cursor: pointer;
+  transition: ease-in 0.2s;
 }
 
-.card-text-body .card-text {
+.card-body .card-text {
   color: hsl(0, 0%, 50%);
   font-size: 16px;
   line-height: 150%;
@@ -83,7 +71,6 @@ body {
 .card-footer {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
 }
 
 .card-footer img{
