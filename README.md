@@ -22,7 +22,7 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshot (old one, to see the final design see: [Live site](https://6xg0d.github.io/blog-preview-card-challenge/))
 
 ![](./screenshot.jpg)
 
